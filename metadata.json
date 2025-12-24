@@ -1,0 +1,7 @@
+{
+  "name": "Bora falar Português!",
+  "description": "An interactive language learning app designed for Americans to learn Brazilian Portuguese from scratch through immersive modules and AI-powered conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
